@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602593095 source:c:\users\anubh\downloads\codeblocks\minutesconversion\main.c
+	<stdio.h>
+	<math.h>
+
